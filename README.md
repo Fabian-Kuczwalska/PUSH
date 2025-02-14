@@ -16,7 +16,7 @@ Focus Flow unterstützt dich dabei, deinen Alltag entspannter und strukturierter
 
 # 📱 Screenshots
 
-Füge hier Screenshots oder GIFs deiner App ein, um einen visuellen Eindruck zu vermitteln.
+Füge hier Screenshots der App ein
 
 
 
@@ -40,6 +40,7 @@ MVVM Struktur
 
 API's – Für Datenabrufe
 - https://zenquotes.io/
+- API für Atem und Entspannungsübungen
 
 
 
@@ -47,13 +48,13 @@ API's – Für Datenabrufe
 
 # 🚀 Installation
 
-Projekt klonen:
+###Projekt klonen:
 
-git clone <repository-url>
+git clone <https://github.com/Fabian-Kuczwalska/PUSH.git>
 
-Projekt öffnen:
+###Projekt öffnen:
 
-open ADHSCompanion.xcodeproj
+open FocusFlow.xcodeproj
 
 In Xcode ausführen.
 
@@ -61,4 +62,4 @@ In Xcode ausführen.
 
 
 # 🤝 Mitwirken
-Erkläre, wie andere zum Projekt beitragen können.
+----
