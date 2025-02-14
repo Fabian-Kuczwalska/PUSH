@@ -48,11 +48,11 @@ API's – Für Datenabrufe
 
 # 🚀 Installation
 
-###Projekt klonen:
+### Projekt klonen:
 
 git clone <https://github.com/Fabian-Kuczwalska/PUSH.git>
 
-###Projekt öffnen:
+### Projekt öffnen:
 
 open FocusFlow.xcodeproj
 
