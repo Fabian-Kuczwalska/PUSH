@@ -36,9 +36,10 @@ Swift – Hauptprogrammiersprache
 
 UIKit/SwiftUI – UI-Framework
 
-CocoaPods/Swift Package Manager – Abhängigkeitsmanagement
+MVVM Struktur
 
-API XYZ – Für Datenabrufe
+API's – Für Datenabrufe
+- https://zenquotes.io/
 
 
 
