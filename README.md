@@ -12,11 +12,14 @@ durch Leicht lesbare Texte – Klare, gut strukturierte Inhalte für eine besser
 - Individuelle Erinnerungen – Erhalte sanfte Erinnerungen, um nichts zu vergessen.
 - Fokus & Produktivität – Tools, die dir helfen, konzentriert zu bleiben.
 
-Focus Flow unterstützt dich dabei, deinen Alltag entspannter und strukturierter zu gestalten. Probiere es aus und finde deinen perfekten Arbeitsrhythmus!
+Focus Flow unterstützt dich dabei, deinen Alltag entspannter und strukturierter zu gestalten. Probiere es aus und finde deinen perfekten Altagsrhythmus!
 
 # 📱 Screenshots
 
 Füge hier Screenshots der App ein
+
+
+
 
 
 
@@ -27,6 +30,9 @@ Funktion 1: Notfall Button --> für schnelle hilfe bei überforderung und/oder G
 Funktion 2: Tagesplaner --> Für einen struckturierteren tagesablauf und besseren Flow 
 
 Funktion 3: Benachrichtigung --> mit nützlichen Tipps um im fokus zu bleiben 
+
+
+
 
 
 
@@ -46,6 +52,8 @@ API's – Für Datenabrufe
 
 
 
+
+
 # 🚀 Installation
 
 ### Projekt klonen:
@@ -57,6 +65,8 @@ git clone <https://github.com/Fabian-Kuczwalska/PUSH.git>
 open FocusFlow.xcodeproj
 
 In Xcode ausführen.
+
+
 
 
 
